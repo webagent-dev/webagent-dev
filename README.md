@@ -1,10 +1,9 @@
 
-<p align="center">
     <h1 align="center">💡 Hello there ! Welcome I'm Wedagent-dev,</h1> 
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <p align="center"><img align="center" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" /></p>
 </p>
   <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
-### 👨🏻‍💻 💡&nbsp;About Me
+### <h1 align="center">👨🏻‍💻 💡&nbsp;About Me</h1>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
   
@@ -23,7 +22,8 @@
 - ⚡️ Fun-Fact: Anything is possible;
     <b>
     <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"><em>
-### 🛠 &nbsp;Tech Stack
+        <b>
+        <h1 align='center'>🛠 &nbsp;Tech Stack</h1>     
 ```javascript
   <p align='center'>
 const webagent-dev = {
