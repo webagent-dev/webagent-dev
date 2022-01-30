@@ -10,9 +10,9 @@
   
   <b> I'm FullStack Developer <b/> <b>I love connecting with different people</b> so if you want to say 
     <b> I'll be happy to meet with you known you  more!</b> 
-  😊</em>💻 I love writing code and learn anythings about programming  
+  😊💻 I love writing code and learn anythings about programming  
   <b>am a creative problem solving enthusiast, </b>
-  with a constantly growing love for languages. Beside's programming, 
+  i constantly learning and growing love for languages. every programming languages, 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at wizkenny019@gmail.com. I'll try to respond as soon as possible!\
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -21,7 +21,8 @@
 - 👯 I’m looking to collaborate on DevPost;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+    <b>
+    <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"><em>
 ### 🛠 &nbsp;Tech Stack
 ```javascript
   <p align='center'>
