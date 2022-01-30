@@ -1,5 +1,6 @@
 
-    <h1 align="center">💡 Hello there ! Welcome I'm Wedagent-dev,</h1> 
+<!--     <h1 align="center"><h1>💡 Hello there ! Welcome I'm Wedagent-dev,</h1></h1> -->
+    <h1 align='center'>💡 Hello there ! Welcome I'm Wedagent-dev,</h1>
   <p align="center"><img align="center" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" /></p>
 </p>
   <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
