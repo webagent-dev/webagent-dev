@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
   
-  <b> I'm FullStack Developer <b/> <b>I love connecting with different people</b> so if you want to say 
+  <b> I'm FullStack Developer <b/> <b>I love connecting with different people</b> so if you want to say HI <b>
     <b> I'll be happy to meet with you known you  more!</b> 
   😊💻 I love writing code and learn anythings about programming  
   <b>am a creative problem solving enthusiast, </b>
