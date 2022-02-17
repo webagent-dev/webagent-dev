@@ -14,7 +14,7 @@
   <b>am a creative problem solving enthusiast, </b>
   i constantly learning and growing love for languages. every programming languages, 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at wizkenny019@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at webagent24@gmail.com. I'll try to respond as soon as possible!\
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning Nextjs; 
