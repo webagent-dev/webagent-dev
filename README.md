@@ -1,9 +1,9 @@
-# <h1 align="center"><h1>💡 Hello there ! Welcome I'm Wedagent-dev,</h1></h1>
- ## <h1 align='center'>💡 Hello there ! Welcome I'm Wedagent-dev,</h1>
+<div align='center'>
+  <h1>💡 Hello there ! Welcome I'm Wedagent-dev,</h1>
   <p align="center"><img align="center" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" /></p>
 </p>
   <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
-### <h1 align="center">👨🏻‍💻 💡&nbsp;About Me</h1>
+<h1 align="center">👨🏻‍💻 💡&nbsp;About Me</h1>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
   
@@ -23,7 +23,7 @@
     <b>
     <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"><em>
         <b>
-        ###<h1 align='center'>🛠 &nbsp;Tech Stack</h1>     
+        <h1 align='center'>🛠 &nbsp;Tech Stack</h1>     
 ```js
   <p align='center'>
 const webagent-dev = {
@@ -50,4 +50,4 @@ const webagent-dev = {
   }
   </p>
 <b>
-  
+ </div>
